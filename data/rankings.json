@@ -1,0 +1,23 @@
+[
+  {
+    "symbol": "BreakX 600",
+    "confidence": 0.0,
+    "jump_probability": 0.008741804558226662,
+    "ranking_score": 0.0,
+    "signal": null
+  },
+  {
+    "symbol": "BreakX 1200",
+    "confidence": 0.0,
+    "jump_probability": 0.007805182641273806,
+    "ranking_score": 0.0,
+    "signal": null
+  },
+  {
+    "symbol": "BreakX 1800",
+    "confidence": 0.0,
+    "jump_probability": 0.009054011863877614,
+    "ranking_score": 0.0,
+    "signal": null
+  }
+]
